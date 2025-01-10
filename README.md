@@ -21,7 +21,7 @@ A modern, responsive web application built with **React.js**, **Tailwind CSS**, 
 
 ## Installation and Setup
 
-1. Clone the repository:
+ Clone the repository:
    git clone https://github.com/hemantT1999
 
 _Steps to Run the Application_
@@ -38,5 +38,7 @@ _Run the development server:_
 npm run dev
 Open your browser and go to:
 http://localhost:3000
+*Visit [HTBitcoin](https://htbitcoin.netlify.app/) for a comprehensive platform offering essential cryptocurrency tools, tax resources, and a resource center to enhance your trading experience.*
+
 
 The application should now be up and running locally.
